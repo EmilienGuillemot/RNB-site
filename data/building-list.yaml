@@ -16,12 +16,13 @@
 
 - id: kiosque
   title: Kiosque et abri ouvert
-  description: Un bâtiment est "abritant", au sens d’une protection des éléments extérieurs et intempéries. Pour qu'il remplisse cette condition, il faut pouvoir facilement distinguer un dedans et un dehors, grâce une ou plusieurs entrées.
+  description: Un bâtiment est "abritant", au sens d’une protection des éléments extérieurs et intempéries. Pour qu'il remplisse cette condition, il faut pouvoir facilement distinguer un dedans et un dehors, via une ou plusieurs entrées.
   isBuilding: false
   image: kiosque.png
 
 - id: abri-jardin
   title: Cabane ou abri de petite dimension
+  description: Un seuil minimal de 5 m2 est généralement retenu. En dessous, il ne s'agit pas d'un bâtiment.
   isBuilding: false
   image: abri-jardin.png
 
